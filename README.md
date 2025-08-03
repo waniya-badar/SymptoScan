@@ -25,7 +25,7 @@ SymptoScan - An interactive Streamlit web app that allows users to upload medica
 
 ### Folder Structure:
 project-root/
-│
+│ <br>
 ├── api_key.py     
 ├── app.py                  
 ├── requirements.txt    
