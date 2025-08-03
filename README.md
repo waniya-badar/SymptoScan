@@ -26,10 +26,10 @@ SymptoScan - An interactive Streamlit web app that allows users to upload medica
 ### Folder Structure:
 project-root/
 │
-├── api_key.py               # Your Gemini API key (NOT to be shared publicly)
-├── app.py                   # Main Streamlit app
-├── requirements.txt         # Python dependencies
-└── README.md                # Documentation
+├── api_key.py <br>        
+├── app.py     <br>               
+├── requirements.txt   <br>     
+└── README.md  <br>              
 
 ### Running the App:
 streamlit run app.py
